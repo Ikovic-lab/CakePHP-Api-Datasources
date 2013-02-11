@@ -1,5 +1,9 @@
 # Apis Plugin
 
+## PROJECT HAS MOVED UPSTREAM!
+
+Please checkout the renamed project [CakePHP Copula](https://github.com/CakePHP-Copula/Copula)
+
 Since I started going through several restful apis things started to become repetitive. I decided to layout my code in a more 'proper ' fashion then.
 
 ## Notes
